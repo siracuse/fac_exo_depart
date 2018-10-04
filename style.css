@@ -1,0 +1,61 @@
+body {
+    margin: 0;
+}
+h1{
+    margin: 0;
+}
+main{
+    width: 1024px;
+    margin: auto;
+    margin-top: 50px;
+}
+.top-header {
+    background-color:#061339;
+    color: white;
+}
+.bot-header {
+    background-image: url("img/background.jpg");
+    color: white;
+    height: 150px;
+    text-align: center;
+}
+
+.formulaire {
+    background-color: aquamarine;
+    width: 40%;
+    height: 450px;
+    float: left;
+}
+.image-form {
+    width:  60%;
+    float: right;
+}
+.chat-form {
+    width: 100%;
+}
+.info {
+    background-color: #EEEEEE;
+    clear: both;
+}
+.text-info {
+    background-color: cadetblue;
+    width: 70%;
+    height: auto;
+    float: left;
+}
+.image-info{
+    width: 30%;
+    height: auto;
+    float: right;
+}
+.tete-chat{
+    width: 100%;
+    height: auto;
+}
+.copyright {
+    background-color: #061339;
+    text-align: right;
+    color: white;
+    clear: both;
+
+}
